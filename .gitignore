@@ -1,0 +1,7 @@
+*.map
+*.obj
+*.log
+*.bin
+*.hex
+/Debug/
+/Release/
